@@ -1,0 +1,71 @@
+{
+  "siteId": "customer-service-message-aggregation-tools",
+  "generatedAt": "2026-06-12T16:23:59.393860",
+  "categories": [
+    "beginner-customer-service-message-aggregation-tools",
+    "advanced-customer-service-message-aggregation-tools",
+    "tips-customer-service-message-aggregation-tools",
+    "history-customer-service-message-aggregation-tools",
+    "trending-customer-service-message-aggregation-tools",
+    "tutorials-customer-service-message-aggregation-tools"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-customer-service-message-aggregation-tools",
+      "category_name": "Beginner Customer Service Message Aggregation Tools"
+    },
+    {
+      "category_slug": "advanced-customer-service-message-aggregation-tools",
+      "category_name": "Advanced Customer Service Message Aggregation Tools"
+    },
+    {
+      "category_slug": "tips-customer-service-message-aggregation-tools",
+      "category_name": "Customer Service Message Aggregation Tools Tips"
+    },
+    {
+      "category_slug": "history-customer-service-message-aggregation-tools",
+      "category_name": "Customer Service Message Aggregation Tools History"
+    },
+    {
+      "category_slug": "trending-customer-service-message-aggregation-tools",
+      "category_name": "Trending Customer Service Message Aggregation Tools"
+    },
+    {
+      "category_slug": "tutorials-customer-service-message-aggregation-tools",
+      "category_name": "Customer Service Message Aggregation Tools Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "customer-service-message-aggregation-tools",
+    "color_scheme": {
+      "name": "Modern Slate",
+      "primary": "#0f172a",
+      "secondary": "#334155",
+      "accent": "#38bdf8",
+      "background": "#f1f5f9",
+      "text": "#1e293b",
+      "light": "#e2e8f0"
+    },
+    "font": {
+      "name": "Inter",
+      "family": "'Inter', system-ui, sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');"
+    },
+    "layout": "minimal",
+    "border_radius": "4px",
+    "box_shadow": "0 1px 3px rgba(0,0,0,0.1)",
+    "article_card_style": "grid",
+    "header_style": "sticky",
+    "footer_style": "simple",
+    "modules": [
+      "featured-section",
+      "stats-widget",
+      "category-highlights",
+      "social-links",
+      "recent-comments"
+    ],
+    "site_title": "Customer Service Message Aggregation Tools Central",
+    "articles_per_row": 2
+  }
+}
